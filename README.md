@@ -28,7 +28,7 @@ A program második verziója, ez már fejlettebb, billentyű parancsokat letilt�
   - Vagy használhatsz jelszót.
     - Az alap v2.exe jelszava: NeverGonnaGiveYouUp
 
-### v3 (GoAndSolveThisXD)
+### v3 (GoAndSolveThisXD):
 Ez a program legfejlettebb verziója. Ezzel már nem lehetséges BSOD-ot okozni, de annál nehezebb kilépni ha nem tudod a jelszót.
 - Kilépés:
   - Egyenletek:
