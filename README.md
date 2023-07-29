@@ -10,7 +10,7 @@ Ha valami nem megfelelően működik nyiss egy issues ticketet
 Ez a program eredetileg privát szoftvernek indult, ezért a kijelző felbontás amire számít, az 1080p. Ezt a későbbiekben meg változtatni a custom builderrel (tervezett funkció).
 
 ## verziók:
-### v1 (default: OP AutoClicker):
+### v1 (Just an autoclicker...):
 Ez egy kezdetleges, konzol verziója a programnak. Ez csak "megijesztésre" van, hogy admint kér, utánna megkérdezi hogy milyen indokkal vagyjon ki a gép. Másik használata BSOD tool
 - Parancssor:
 ```
@@ -18,7 +18,7 @@ v1.exe -type=0 | Ez azonnali BSOD-ot okoz, DEADDEAD indokkal
 v1.exe -type=1 | Ez azonnali BSOD-ot okoz, CRITICAL_PROCESS_DIED indokkal
 ```
 
-### v2 (default: LoopClicker):
+### v2 (Why am I doing this):
 A program második verziója, ez már fejlettebb, billentyű parancsokat letiltó verzió.
 - BSOD megakadályozásához (ez nem léptet ki a programból):
   - indítsd a programot `--debug` argumentummal
@@ -28,7 +28,7 @@ A program második verziója, ez már fejlettebb, billentyű parancsokat letilt�
   - Vagy használhatsz jelszót.
     - Az alap v2.exe jelszava: NeverGonnaGiveYouUp
 
-### v3 (default: CiganyClicker (named by Rynx420))
+### v3 (GoAndSolveThisXD)
 Ez a program legfejlettebb verziója. Ezzel már nem lehetséges BSOD-ot okozni, de annál nehezebb kilépni ha nem tudod a jelszót.
 - Kilépés:
   - Egyenletek:
